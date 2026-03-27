@@ -1,1 +1,0 @@
-from donation_webhook import create_app
